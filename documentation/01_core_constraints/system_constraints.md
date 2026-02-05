@@ -1,0 +1,1 @@
+(security rules, what must never be touched, data guarantees, auth boundaries)
